@@ -143,7 +143,5 @@ análise crítica de risco.
 
 ## Contexto académico
 
-Projeto apresentado no portefólio de **José Cunha**, desenvolvido para Análise de
-Dados para Mercados Financeiros. A autoria académica e apresentação completas
-encontram-se em
-[Pair_Trading_Stocks_and_Commodaties.pdf](Pair_Trading_Stocks_and_Commodaties.pdf).
+Trabalho desenvolvido no âmbito da unidade curricular de Análise de Dados para
+Mercados Financeiros.

@@ -142,6 +142,4 @@ backtesting and critical risk analysis.
 
 ## Academic context
 
-Project presented in **José Cunha's** portfolio and developed for Data Analysis
-in Financial Markets. Full academic authorship and presentation are recorded in
-[Pair_Trading_Stocks_and_Commodaties.pdf](Pair_Trading_Stocks_and_Commodaties.pdf).
+Work developed as part of the Data Analysis in Financial Markets course.
