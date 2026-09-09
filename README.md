@@ -143,6 +143,7 @@ análise crítica de risco.
 
 ## Contexto académico
 
-Projeto desenvolvido por José Cunha, João Fonseca e Diogo Almeida para Análise
-de Dados para Mercados Financeiros. A apresentação completa encontra-se em
+Projeto apresentado no portefólio de **José Cunha**, desenvolvido para Análise de
+Dados para Mercados Financeiros. A autoria académica e apresentação completas
+encontram-se em
 [Pair_Trading_Stocks_and_Commodaties.pdf](Pair_Trading_Stocks_and_Commodaties.pdf).

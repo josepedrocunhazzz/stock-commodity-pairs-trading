@@ -142,6 +142,6 @@ backtesting and critical risk analysis.
 
 ## Academic context
 
-Developed by José Cunha, João Fonseca and Diogo Almeida for Data Analysis in
-Financial Markets. The complete presentation is available in
+Project presented in **José Cunha's** portfolio and developed for Data Analysis
+in Financial Markets. Full academic authorship and presentation are recorded in
 [Pair_Trading_Stocks_and_Commodaties.pdf](Pair_Trading_Stocks_and_Commodaties.pdf).
