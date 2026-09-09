@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+stocks_commodities_data.csv
+correlations_heatmap.png
+rolling_correlations.csv
+rolling_correlations_normalized.csv
+top_correlated_pairs.csv
+top_correlated_pairs_normalized.csv
+pairs_stationarity_results.csv
+stationary_pairs.csv
